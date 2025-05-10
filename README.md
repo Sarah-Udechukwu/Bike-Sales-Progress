@@ -18,6 +18,8 @@ This project is to help us analyze sales trends by gender, age bracket and commu
 
 [BIKESALES_Progress_Project.xlsx](https://github.com/user-attachments/files/20140780/BIKESALES_Progress_Project.xlsx)
 
+![Bike_sales_Dashbord](https://github.com/user-attachments/assets/d328c3ed-6298-4370-9d9a-ebf000d75d72)
+
 ### Data Source
 
 The dataset used fot this analysis is a csv file from Kaggle
