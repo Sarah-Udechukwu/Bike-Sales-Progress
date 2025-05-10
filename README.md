@@ -16,6 +16,8 @@
 ### Project Overview
 This project is to help us analyze sales trends by gender, age bracket and commute distance thereby tracking the sales progress, gathering insight to make informed decision
 
+[BIKESALES_Progress_Project.xlsx](https://github.com/user-attachments/files/20140780/BIKESALES_Progress_Project.xlsx)
+
 ### Data Source
 
 The dataset used fot this analysis is a csv file from Kaggle
